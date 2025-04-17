@@ -8,7 +8,7 @@ date: 2023-10-01
 location: "City, Country"
 ---
 
-Teaching asistant for a second year mathematics course on vector calculus.
+Teaching assistant for a second year mathematics course on vector calculus.
 
 Heading 1
 ======

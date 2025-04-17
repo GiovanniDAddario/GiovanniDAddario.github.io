@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "City, Country"
 ---
 
-Teaching assistant for second year mathematics course on differential equations
+Teaching assistant for a second year mathematics course on differential equations
 and Fourier techniques.
 
 Heading 1
