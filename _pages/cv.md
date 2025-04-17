@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD Mathematics, University of Nottingham, 2026 (expected)
+* MASt Applied Mathematics, University of Cambridge, 2022
+* MSci Physics and Astrophysics, University of Birmingham, 2021
 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * University of Cambridge
+  * Studying mutations in transmissible cancer
+  * Supervisor: Dr. Kevin Gori
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Research Intern
+  * University of Birmingham
+  * Deep learning methods for galaxy simulations
+  * Supervisor: Dr. Sean McGee
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Intern
+  * University of Birmingham
+  * Software development for condensed matter experiments
+  * Supervisor: Dr. Mingee Chung
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematica
+* Python
+  * Tensorflow, NumPy, SciPy, Pandas
+* Unix
 
 Publications
 ======
@@ -58,7 +56,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
+ 
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
