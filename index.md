@@ -1,10 +1,11 @@
 ---
 layout: home
-title: Your Name
-subtitle: Researcher | PhD Candidate | Data Enthusiast
+title: Giovanni D'Addario
+subtitle: PhD Student
 ---
 
-Welcome! I’m a [your current position, e.g. PhD student at XYZ University] working on [your research focus, e.g. natural language processing and machine learning].
+Hello! I’m a third year PhD student at the University of Nottingham
+ working on black holes, modified theories of gravity and gravitational waves.
 
 My work focuses on [brief summary or interests]. You can find my [CV](cv) here, and check out my [publications](publications) and [teaching](teaching) experiences.
 
