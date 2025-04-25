@@ -20,4 +20,4 @@ black hole scalarisation. Another topic of interest is the use of effective
 field theory techniques in the modelling of binary black hole systems.
 
 You can find my [CV](cv) here, and check out my [publications](publications) and [teaching](teaching) experiences.
-Feel free to [contact me](mailto:your@email.com) or connect on [LinkedIn](https://linkedin.com/in/yourprofile).
+Feel free to [contact me](mailto:giovannidaddario@gmail.com) or connect on [LinkedIn](https://uk.linkedin.com/in/giovannidaddario).
