@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Giovanni D'Addario
 subtitle: PhD Student
 author_profile: true
