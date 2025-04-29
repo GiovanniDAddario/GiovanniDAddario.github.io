@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Giovanni D'Addario
+title: "Home" #Giovanni D'Addario
+permalink: /
 subtitle: PhD Student
 author_profile: true
 ---
