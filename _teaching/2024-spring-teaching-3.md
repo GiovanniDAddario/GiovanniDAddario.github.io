@@ -1,7 +1,7 @@
 ---
 title: "Complex Functions"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching-3
 venue: "University of Nottingham"
 date: 2024-01-01

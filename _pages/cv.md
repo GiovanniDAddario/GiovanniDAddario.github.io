@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Summer 2022: Research Intern
   * University of Cambridge
   * Studying mutations in transmissible cancer
   * Supervisor: Dr. Kevin Gori
@@ -37,6 +37,7 @@ Skills
 * Mathematica
 * Python
   * Tensorflow, NumPy, SciPy, Pandas
+* C++
 * Unix
 
 Publications

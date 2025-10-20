@@ -2,7 +2,7 @@
 title: "Frequency contamination from new fundamental fields in black hole ringdowns"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-05-23-Frequency-contamination-ringdown-paper-2.md
+permalink: #/publication/2025-05-23-Frequency-contamination-ringdown-paper-2.md
 excerpt: #
 date: 2025-09-24
 venue: 'Physical Review D'

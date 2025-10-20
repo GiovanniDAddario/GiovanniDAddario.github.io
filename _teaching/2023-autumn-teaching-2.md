@@ -1,7 +1,7 @@
 ---
 title: "Vector Calculus"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2023-autumn-teaching-2
 venue: "University of Nottingham"
 date: 2023-10-01
