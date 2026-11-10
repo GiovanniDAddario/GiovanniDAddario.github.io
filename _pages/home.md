@@ -6,7 +6,7 @@ subtitle: PhD Student
 author_profile: true
 ---
 
-Hello! I’m a third year PhD student at the University of Nottingham
+Hello! I’m a fourth year PhD student at the University of Nottingham
 working on black holes, modified theories of gravity and gravitational waves. I 
 am in the School of Mathematical Sciences, and I am supervised by Prof. Thomas 
 P. Sotiriou, Prof. Antonio Padilla, and Assoc. Prof. Paul M. Saffin.
